@@ -2,7 +2,7 @@
   <b>🇬🇧 English</b> | <a href="README.ru.md">🇷🇺 Русский</a>
 </p>
 
-# Hi, I'm Dmitry 👋
+# Hi, I'm Dmitry
 
 Backend Developer focused on building clean, reliable APIs and full-scale applications.
 
@@ -36,7 +36,7 @@ Backend Developer focused on building clean, reliable APIs and full-scale applic
 
 ## What I do
 
-I build backend systems with Laravel and PHP, design REST APIs, and work with relational databases (PostgreSQL/MySQL). My work covers full-stack applications, microservices, and monolithic architectures — not just isolated APIs. Comfortable with Docker for containerization and Linux for daily development and deployment work. I actively use AI tools (Claude, Codex, Gemini, DeepSeek, Replit, Stitch) to speed up development and improve code quality.
+I build backend systems with **Laravel** and **PHP**, design **REST APIs**, and work with relational databases (**PostgreSQL**/**MySQL**). My work covers **full-stack applications**, **microservices**, and **monolithic architectures** — not just isolated APIs. Comfortable with **Docker** for containerization and **Linux** for daily development and deployment work. I actively use AI tools (**Claude**, **Codex**, **Gemini**, **DeepSeek**, **Replit**, **Stitch**) to learn new stuff, speed up development and improve code quality.
 
 ## Contact
 
