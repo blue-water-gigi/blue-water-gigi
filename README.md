@@ -21,7 +21,7 @@ Backend Developer focused on building clean, reliable APIs and full-scale applic
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-- **Approach:** OOP, clean code, version control discipline
+- **Approach:** OOP, SOLID where it needs to be, clean code, version control discipline
 
 ## AI Tools I Use in Daily Work
 
