@@ -2,7 +2,7 @@
   <b>🇬🇧 English</b> | <a href="README.ru.md">🇷🇺 Русский</a>
 </p>
 
-#Backend Developer focused on building clean, reliable APIs and full-scale applications.
+# Backend Developer focused on building clean, reliable APIs and full-scale applications.
 
 ## Stack
 
