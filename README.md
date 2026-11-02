@@ -2,7 +2,7 @@
   <b>🇬🇧 English</b> | <a href="README.ru.md">🇷🇺 Русский</a>
 </p>
 
-# Backend Developer focused on building clean, reliable APIs and full-scale applications.
+# Backend Dev
 
 ## Stack
 
@@ -19,23 +19,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-- **Approach:** OOP, SOLID where it needs to be, clean code, version control discipline
-
-## AI Tools I Use in Daily Work
-
-<p>
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/-DeepSeek-536AF5?style=flat-square" alt="DeepSeek"/>
-  <img src="https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white" alt="Replit"/>
-  <img src="https://img.shields.io/badge/-Stitch-4285F4?style=flat-square" alt="Stitch"/>
-</p>
-
-## What I do
-
-I build backend systems with **Laravel** and **PHP**, design **REST APIs**, and work with relational databases (**PostgreSQL**/**MySQL**). My work covers **full-stack applications**, **microservices**, and **monolithic architectures** — not just isolated APIs. Comfortable with **Docker** for containerization and **Linux** for daily development and deployment work. I actively use AI tools (**Claude**, **Codex**, **Gemini**, **DeepSeek**, **Replit**, **Stitch**) to learn new stuff, speed up development and improve code quality.
-
 ## Contact
 
 - Telegram: [@nemui_iq](https://t.me/nemui_iq)
@@ -43,4 +26,4 @@ I build backend systems with **Laravel** and **PHP**, design **REST APIs**, and 
 
 ---
 
-⭐ Feel free to check out my repositories below.
+⭐
