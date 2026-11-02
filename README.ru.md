@@ -2,7 +2,7 @@
   <a href="README.md">🇬🇧 English</a> | <b>🇷🇺 Русский</b>
 </p>
 
-# Backend-разработчик, специализируюсь на создании чистых, надёжных API и полноценных приложений.
+# Backend-разраб.
 
 ## Стек
 
@@ -19,23 +19,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-- **Подход:** ООП, SOLID где они нужны, чистый код, дисциплина работы с версиями кода
-
-## ИИ-инструменты, которые использую в работе
-
-<p>
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/-DeepSeek-536AF5?style=flat-square" alt="DeepSeek"/>
-  <img src="https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white" alt="Replit"/>
-  <img src="https://img.shields.io/badge/-Stitch-4285F4?style=flat-square" alt="Stitch"/>
-</p>
-
-## Чем занимаюсь
-
-Разрабатываю backend-системы на **Laravel** и **PHP**, проектирую **REST API**, работаю с реляционными базами данных (**PostgreSQL**/**MySQL**). Мой опыт охватывает **full-stack приложения**, **микросервисы** и **монолитные архитектуры** — не только изолированные API. Уверенно работаю с **Docker** для контейнеризации и **Linux** для повседневной разработки и деплоя. Активно использую ИИ-инструменты (**Claude**, **Codex**, **Gemini**, **DeepSeek**, **Replit**, **Stitch**), чтобы изучать новое, ускорять разработку и повышать качество кода.
-
 ## Контакты
 
 - Telegram: [@nemui_iq](https://t.me/nemui_iq)
@@ -43,4 +26,4 @@
 
 ---
 
-⭐ Заходите в мои репозитории ниже.
+⭐
